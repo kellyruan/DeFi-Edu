@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+button {background-color: white;}
+
+button:hover{background-color: lightblue;}
+
+button:focus{background-color: lightblue;}
